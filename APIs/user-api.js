@@ -19,7 +19,7 @@ const mc = require("mongodb").MongoClient;
 
 
 
-//connection strings
+//connection string
 const databaseUrl = "mongodb://FranchiseFrizz:franchise123@cluster0-shard-00-00.9zb7h.mongodb.net:27017,cluster0-shard-00-01.9zb7h.mongodb.net:27017,cluster0-shard-00-02.9zb7h.mongodb.net:27017/FranchiseFrizz?ssl=true&replicaSet=atlas-8ld744-shard-0&authSource=admin&retryWrites=true&w=majority"
 
 //const databaseUrl="mongodb://<username>:<password>@cluster0-shard-00-00.rjvoz.mongodb.net:27017,cluster0-shard-00-01.rjvoz.mongodb.net:27017,cluster0-shard-00-02.rjvoz.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority"
