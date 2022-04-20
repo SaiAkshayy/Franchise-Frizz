@@ -1,4 +1,4 @@
-//create express app
+//create express ap
 const exp = require("express")
 const app = exp();
 const path = require("path")
